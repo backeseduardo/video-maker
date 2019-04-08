@@ -31,6 +31,7 @@ File: `google-search.json`
 
 ```
 {
-  "apiKey": "AP KEY"
+  "apiKey": "AP KEY",
+  "searchEngineID": "ID"
 }
 ```
